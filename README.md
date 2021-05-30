@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Web Site:<www.lewinz.org>
+My Web Site:<https://www.lewinz.org>
 <!--
 **Lewinz/Lewinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
